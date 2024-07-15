@@ -1,0 +1,3 @@
+rootProject.name = 'testTracing'
+include 'testTracingRestClient'
+include 'testTracingRestService'
